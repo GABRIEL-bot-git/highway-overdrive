@@ -32,6 +32,7 @@ Because this system utilizes a zero-dependency client-side architecture, no serv
 Simply double-click the index.html file to open it in any modern web browser (Chrome, Firefox, Edge, Safari).
 
 🕹️ Controls
+
 Left Arrow (←): Steer vehicle left.
 
 Right Arrow (→): Steer vehicle right.
@@ -40,7 +41,11 @@ Right Arrow (→): Steer vehicle right.
 **📂 Project Structure**
 highway-overdrive/
 ├── index.html       # Core game engine, UI overlay, and rendering logic
+
 ├── player.png       # Main character vehicle asset
+
 ├── enemy.png        # Dynamic traffic vehicle asset
+
 ├── barrier.png      # Static roadblock asset
+
 └── README.md        # System documentation
