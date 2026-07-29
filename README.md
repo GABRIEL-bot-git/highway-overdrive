@@ -39,7 +39,9 @@ Right Arrow (→): Steer vehicle right.
 
 
 **📂 Project Structure**
+
 highway-overdrive/
+
 ├── index.html       # Core game engine, UI overlay, and rendering logic
 
 ├── player.png       # Main character vehicle asset
