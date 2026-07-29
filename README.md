@@ -10,10 +10,6 @@ This project was developed as a software engineering demonstration of real-time 
 
 ---
 
-## 🎮 Play the Game
-*(Optional: If you deployed using GitHub Pages, replace the `#` below with your actual link)*
-**[Play Highway Overdrive Live Here](#)**
-
 ## 🚀 Key Engineering Features
 
 * **Synchronized Rendering Engine:** Replaces asynchronous `setInterval` loops with the `requestAnimationFrame` API to anchor rendering to the hardware display cycle, achieving a stable 60 FPS while minimizing CPU overhead.
@@ -42,7 +38,6 @@ Right Arrow (→): Steer vehicle right.
 
 
 **📂 Project Structure**
-Plaintext
 highway-overdrive/
 ├── index.html       # Core game engine, UI overlay, and rendering logic
 ├── player.png       # Main character vehicle asset
